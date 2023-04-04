@@ -1,9 +1,4 @@
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="toddbot-home">
-</picture>
-
+## Paper Reading
 
 ### Paper Reading on Tabular Datasets
 - https://arxiv.org/pdf/2207.01848.pdf
