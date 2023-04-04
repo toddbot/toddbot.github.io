@@ -10,4 +10,4 @@ ROC Curve Analysis
 - NONPARAMETRIC AND SEMIPARAMETRIC ESTIMATION OF THE RECEIVER OPERATING CHARACTERISTIC CURVE
 
 Prompt-Engineering in LLMs
-https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
+- https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/
