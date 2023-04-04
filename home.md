@@ -1,4 +1,4 @@
-## Paper Reading
+# Paper Reading
 
 Paper Reading on Tabular Datasets
 - https://arxiv.org/pdf/2207.01848.pdf
