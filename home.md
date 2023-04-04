@@ -5,7 +5,7 @@
 
 <summary>Tabular Datasets</summary>
 
-** Paper Reading on Tabular Datasets **
+**Paper Reading on Tabular Datasets**
 - https://arxiv.org/pdf/2207.01848.pdf
 - https://arxiv.org/abs/2106.03253
 
