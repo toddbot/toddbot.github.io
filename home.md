@@ -5,8 +5,8 @@
 
 <summary>Tabular Datasets</summary>
 
-- https://arxiv.org/pdf/2207.01848.pdf
-- https://arxiv.org/abs/2106.03253
+* https://arxiv.org/pdf/2207.01848.pdf
+* https://arxiv.org/abs/2106.03253
 
 </details>
 
